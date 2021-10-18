@@ -646,7 +646,10 @@ console.log(`
  ██  ██    ████    ██    ██  ██    ██    ██  
  ██  ██  ██    ██  ██    ██  ██    ██    ██
    ██    ██    ██    ██████  ██    ██    ██ 
-                                             
+Made By: 0xdm#0001
+Tiktok: 0xdm
+Youtube: 0xdm
+GitHub: https://github.com/Oxdm/
                                              
                                                     
 
